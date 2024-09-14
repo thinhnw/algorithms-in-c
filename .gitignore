@@ -1,0 +1,5 @@
+# Ignore all C executable files
+*.out
+*.exe
+
+.vscode
