@@ -2,7 +2,7 @@
 
 **Aproach:**
 
-
+For each number `i`, mark its multiples as non prime
 
 **Complexity:** 
 - Time complexity: `O(n * log log n)`
